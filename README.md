@@ -10,4 +10,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=savkly&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=savkly&icon=7&color=4)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=savkly&icon=7)](https://visitcount.itsvg.in)
